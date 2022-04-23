@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box;
 }
+body{
+    background-color: #272A31;
+}
 .gallery-img {
     display: none;
     height:600px;
